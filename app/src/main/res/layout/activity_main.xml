@@ -52,8 +52,8 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextHere"
-        tools:layout_editor_absoluteX="176dp"
-        tools:layout_editor_absoluteY="283dp" />
+        android:text="myFirstCommit"
+        tools:layout_editor_absoluteX="177dp"
+        tools:layout_editor_absoluteY="565dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
